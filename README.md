@@ -1,6 +1,12 @@
-# Landing Page VIP para Servicio de Uñas Esculpidas a Domicilio
+# LuxeNails VIP
 
-Este paquete contiene la landing page interactiva, **Mobile-First**, diseñada para promocionar los servicios a domicilio de uñas esculpidas en resina, gel y esmaltado semipermanente con curado UV/LED.
+## Descripción del sitio
+
+LuxeNails VIP es una landing page para promocionar un servicio exclusivo de manicura y uñas esculpidas a domicilio. Está pensada para que las clientas puedan conocer los servicios de resina, gel y esmaltado semipermanente con curado UV/LED, ver diseños en la galería y consultar información sobre bioseguridad y preguntas frecuentes.
+
+El sitio incluye un cotizador interactivo para elegir un sistema de uñas, agregar extras e indicar la zona. La selección se puede enviar por WhatsApp para consultar disponibilidad y coordinar una cita. Su diseño adaptable facilita la navegación desde celulares y computadoras.
+
+Este proyecto contiene la landing page interactiva, **Mobile-First**, diseñada para promocionar estos servicios y facilitar el contacto con potenciales clientas.
 
 ---
 
